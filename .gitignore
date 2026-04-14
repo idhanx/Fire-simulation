@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# Outputs (avoid pushing heavy files)
+outputs/
+data/
+
+# Model weights
+*.pth
+*.npy
+
+# Streamlit cache
+.streamlit/
